@@ -1,6 +1,6 @@
 ###  Frontend ReactJS com Socket io 
 
-##### Simples Projeto com integração aplicações Web e Mobile desenvolvidas com ReactJS e React Native.
+##### Simples Projeto Clone Twitter desenvolvido com ReactJS e Socket.io.
 
 Imagens do Projeto:
 
