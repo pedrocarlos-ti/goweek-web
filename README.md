@@ -1,4 +1,4 @@
-###  Frontend ReactJS com Socket io 
+### Frontend ReactJS com Socket.io
 
 ##### Simples Projeto Clone Twitter desenvolvido com ReactJS e Socket.io.
 
@@ -13,4 +13,3 @@ Feed:
 Só.
 
 :rocket: :rocket:
-
